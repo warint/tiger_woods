@@ -1,11 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
+-family-names: "Pasoriza"
+  given-names: "David"
 - family-names: "Warin"
   given-names: "Thierry"
   orcid: "https://orcid.org/0000-0002-5921-3428"
 title: "Dataset of two decades of Tiger Woods press conferences and tournament performance"
-version: 0.1.0
-doi: 10.1016/j.dib.2022.107955
-date-released: 2022-04
-url: "https://github.com/warint/tiger_woods"
+journal: "Data in Brief"
+volume: "41""
+pages: "107955"
+year: "2022"
+issn: "2352-3409"
+doi: "10.1016/j.dib.2022.107955"
+url: "https://www.sciencedirect.com/science/article/pii/S2352340922001664"

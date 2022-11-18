@@ -6,19 +6,8 @@ This repo contains a comprehensive list of Tiger Woods' speeches, which he gave 
 
 Please cite as :
 
-@article{PASTORIZA2022107955,
-title = {Dataset of two decades of Tiger Woods press conferences and tournament performance},
-journal = {Data in Brief},
-volume = {41},
-pages = {107955},
-year = {2022},
-issn = {2352-3409},
-doi = {https://doi.org/10.1016/j.dib.2022.107955},
-url = {https://www.sciencedirect.com/science/article/pii/S2352340922001664},
-author = {David Pastoriza and Thierry Warin},
-keywords = {Tiger Woods, Press conferences, Sentiment analysis, Natural language processing, Machine learning},
-abstract = {This data article describes a dataset that allows exploring the determinants of superstars’ sentiment in tournaments. It consists of 1,284 press conferences of Tiger Woods in the PGA Tour between 1996 and 2020. We used natural language processing, a form of artificial intelligence, to extract and encode in a quantitative form the sentiment in Tiger Woods press conferences both before the tournament and after the rounds played. Additionally, the dataset provides a series of variables that describe Tiger Woods’ scoring and performance momentum in each round and variables that describe health-related and off-the-course issues that could affect his performance on the course. This data can be useful to understand the sentiment that superstars go through before important tournaments, their sentiment following a major victory or defeat, how that sentiment evolves throughout their athletic career, and how sentiment is associated with performance momentum.}
-}
+Pastoriza, David, et Thierry Warin. « Dataset of Two Decades of Tiger Woods Press Conferences and Tournament Performance ». Data in Brief 41 (1 avril 2022). https://doi.org/10.1016/j.dib.2022.107955.
+
 
 ## Description of the variables in the dataset
 
