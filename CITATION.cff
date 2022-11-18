@@ -8,7 +8,8 @@ authors:
   given-names: "Thierry"
   orcid: "https://orcid.org/0000-0002-5921-3428"
 title: "Dataset of two decades of Tiger Woods press conferences and tournament performance"
-version: 2.0.4
+journal: "Data in Brief"
+version: 0.1.0
 doi: 10.1016/j.dib.2022.107955
 date-released: 2022
 url: "https://www.data-in-brief.com/article/S2352-3409(22)00166-4/fulltext"
